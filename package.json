@@ -1,0 +1,24 @@
+{
+  "name": "graphql-express",
+  "version": "1.0.0",
+  "description": "testing implementation of graphql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fathma/graphql-express.git"
+  },
+  "author": "Fathma Siddique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fathma/graphql-express/issues"
+  },
+  "homepage": "https://github.com/Fathma/graphql-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
